@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-que-quema/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Roce que quema](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-que-quema/) |
+| **Get License** | [Music Rights & Licensing for Roce que quema](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-que-quema/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ese roce que quema cuando apagamos la luz
+> Nadie me lleva al cielo tan rápido como tú
+> Tus labios tienen el fuego, la noche tiene la sed
+> Dime qué estamos esperando, si yo te quiero tener
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
