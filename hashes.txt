@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Roce que quema
+
+This log tracks the cryptographic history and versioning for the song **Roce que quema** (roce-que-quema).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T18:27:28.498188 | `v1` | `7dcdd27f1a64aaff23f27c5936fec0f2f7334ccc48ebbd04840c252b71de3c4f` | `ff4b0fb6d9cf3456905e8dfd4ff067cf19bb15d4ab5d613d721dbb004f2dd0b5` | `2026-06-17_roce-que-quema-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
